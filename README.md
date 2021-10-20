@@ -1,7 +1,10 @@
 # --> public-configs
 
-# Here I will publish all public configs for Zombie Escape
+# what will be published here?
+Here I will publish all public configs for Zombie Escape
 
-# You can take any one from here
+# What can you take here?
+You can take any one from here
 
-# If there was no config that you need here, write to me
+# What if there is not what you need?
+If there was no config that you need here, write to me
