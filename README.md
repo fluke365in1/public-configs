@@ -1,6 +1,6 @@
 # --> public-configs
 
-# what will be published here?
+# What will be published here?
 Here I will publish all public configs for Zombie Escape
 
 # What can you take here?
